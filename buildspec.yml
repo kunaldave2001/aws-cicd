@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_REGION: us-east-1
-    ECR_REPOSITORY: codedeploy-ecs-demo
+    ECR_REPOSITORY: aws-codedeploy-ecs
 
 phases:
   pre_build:
